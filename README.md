@@ -1,6 +1,5 @@
 # KapeTann Coffee Shop Website
-hello fomr me
-hello fomr me
+this is my update now
 > Welcome to **KapeTann**, a coffee lover's paradise! 
 >
 >Discover a world of exquisite flavors as you embark on a flavorful journey with us.
